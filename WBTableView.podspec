@@ -15,8 +15,8 @@ Pod::Spec.new do |s|
   s.platform     = :ios, '7.0'
   s.requires_arc = true
 
-  s.source_files = 'WBTableView/*m'
-  s.public_header_files = 'WBTableView/*h'
+  s.source_files = 'WBTableView/*'
+#  s.public_header_files = 'WBTableView/*h'
   s.frameworks = 'Foundation','UIKit'
 
 end
