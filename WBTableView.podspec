@@ -1,7 +1,7 @@
 
 Pod::Spec.new do |s|
   s.name             = "WBTableView"
-  s.version          = "1.0.0"
+  s.version          = "1.0.1"
   s.summary          = "A horizontal tableview used on iOS."
   s.description      = <<-DESC
                        A tableview has only one row and Multi-column allows horizontal scrolling.
